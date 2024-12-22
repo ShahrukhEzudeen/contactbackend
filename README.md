@@ -31,7 +31,8 @@
 ```bash
 $ npm install
 ```
-
+open app.module.ts and just to mysql db
+import sql file on db
 ## Compile and run the project
 
 ```bash
